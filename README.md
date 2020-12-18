@@ -1,6 +1,6 @@
-# Full Login Page
+# QSS 60th Anniversary Website
 
-Welcome to my repository!
+This is the Official Repository for QSS 60th Anniversary.
 
 ***
 
