@@ -2,21 +2,15 @@
 
 ## Rules
 
-1. When contributing, you are only allowed to create, accept or reject pull request.
+1. Please use your common-sense when contributing to this repository.
 
-2. Please use your common-sense when contributing to this repository.
+2. You are strictly prohibitied from releasing updates, packages.
 
-3. You are strictly prohibitied from releasing updates, packages.
-
-4. If you would like @CodeAsherPlayz to use your file in the next update, please download the latest version of this project. After that, email feedback.asherplayz@gmail.com.
-
-5. Please take the rules strictly as rule-breakers will be dealt with promptly.
+3. Please take the rules strictly as rule-breakers will be dealt with promptly.
 
 ## How to get contributing permission?
 
-1. If you would like to contribute to this project, please email business.asherplayz@gmail.com.
-
-2. In at most 3 working days, you should have received your contributor role.
+1. We are not giving out Contributing Permissions to anyone outside of the organisation.
 
 ## Rule-Breaking
 
